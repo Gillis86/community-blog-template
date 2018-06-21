@@ -15,9 +15,10 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.3.1",
     "babel-polyfill": "^6.26.0",
+    "dotenv": "^6.0.0",
+    "express": "^4.15.3",
     "moment": "^2.22.1",
     "nuxt": "^1.4.0",
-    "express": "^4.15.3",
     "nuxt-sass-resources-loader": "^2.0.0",
     "vue-carousel": "^0.7.3",
     "vue-scrollto": "^2.11.0",

@@ -45,16 +45,6 @@ module.exports = {
     */
     extend (config) {
      
-    }
-  },
-  generate: {
-    routes: function () {
-      return axios.get('http://34.227.160.225/wp-json/wp/v2/posts')
-      .then((res) => {
-        return res.data.map((d) => {
-          return '/' + d.slug
-        })
-      })
-    }
+      }
   }
 }
