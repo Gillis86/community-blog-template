@@ -1,0 +1,39 @@
+*,
+*::before,
+*::after{
+  margin:0;
+  padding:0;
+    box-sizing: inherit;
+  }
+  
+  html{
+    font-size: 62.5%;
+    height: 100%;
+    @media screen and (max-width:600px){
+      font-size: 55%
+    }
+  }
+  
+  
+  body{
+    box-sizing:border-box;
+    height:100%;
+    font-family: 'Open Sans', sans-serif;
+    background: linear-gradient(to right, rgba($color-1,.60),rgba($color-2,.60) )
+  }
+  
+  a{
+    text-decoration: none;
+    color:currentColor;
+  }
+  ::-webkit-scrollbar {
+    width: 1rem;
+}
+
+  ::-webkit-scrollbar-thumb {
+    background: $color-one;
+    border-radius: $border-radius; 
+}
+::-webkit-scrollbar-thumb:hover {
+  background: darken($color-one,5%); 
+}
