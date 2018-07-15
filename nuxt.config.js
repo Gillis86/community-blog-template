@@ -30,7 +30,7 @@ module.exports = {
     '@nuxtjs/axios',
   ],
   axios:{
-    baseURL:'http://34.227.160.225/wp-json/wp/v2'
+    baseURL:'http://wp-api-endpoint'
   },
 
 
