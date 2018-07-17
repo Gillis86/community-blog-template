@@ -2,6 +2,9 @@
 
 > Nuxt.js project with Wordpress Rest API
 
+## Demo
+http://blog-template-vue-wp-rest.s3-website-us-east-1.amazonaws.com/
+
 # Screenshot
 
 ![screenshot_2018-07-15 blog-template](https://user-images.githubusercontent.com/19554149/42815875-0b5bbaa6-89c9-11e8-940c-d0a85a605804.jpg)
