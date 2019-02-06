@@ -3,7 +3,7 @@
 > Nuxt.js project with Wordpress Rest API
 
 ## Demo
-http://blog-template-vue-wp-rest.s3-website-us-east-1.amazonaws.com/
+To do (I have close my AWS account)
 
 # Screenshot
 
